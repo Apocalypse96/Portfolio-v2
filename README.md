@@ -54,6 +54,4 @@ This portfolio is built using modern web technologies for an optimized and respo
 
 Feel free to explore, contribute, or connect with me for collaboration opportunities. Thank you for visiting! 😊  
 
---- 
 
-What do you think of this format? 😊
